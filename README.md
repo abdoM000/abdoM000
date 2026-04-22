@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Abdelrahman
 
 I'm a student at **Kazan Federal University** and **School 21**, focused on **Python, data analysis, machine learning, and backend development**.
 
