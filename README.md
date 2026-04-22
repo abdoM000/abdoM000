@@ -57,7 +57,3 @@ Practiced command-line tools for collecting, transforming, sorting, and preproce
 - stronger machine learning project packaging
 - practical AI systems using local models and APIs
 
-## Contact
-
-- LinkedIn: [your-linkedin-link]
-- Email: [your-email]
