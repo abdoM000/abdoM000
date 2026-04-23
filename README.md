@@ -1,22 +1,25 @@
 # Hi, I'm Abdelrahman
-
-I'm a student at **Kazan Federal University** and **School 21**, focused on **Python, data analysis, machine learning, and backend development**.
-
-I work on academic and personal projects involving:
-- Python
-- SQL
-- Pandas
-- data preprocessing and analysis
-- machine learning
-- backend development
-- local AI models and API-based integrations
+# Rebuilding my GitHub portfolio after losing access to my old account, which I originally created back when I was in Egypt /3
 
 ## About me
 
-- Studying at **Kazan Federal University**
-- Learning through hands-on projects at **School 21**
-- Interested in **machine learning, data analytics, backend systems, and AI tools**
-- Currently building my GitHub portfolio by publishing the projects I’ve completed
+#Studying **Software Engineering** at **Kazan Federal University**
+#Learning through hands-on projects at **School 21**, with a strong focus on **data science**
+I work on academic and personal projects involving:
+- **Python**
+- **SQL**
+- **Pandas**
+- **Data preprocessing and analysis**
+- **Machine learning**
+- **Backend development**
+- **Local AI models**
+- **API-based integrations**
+- **Multi-model workflows**
+- **Basic AI agent systems**
+- Motivated to go deeper into **machine learning**
+
+# Some of my School 21 work was completed and submitted through **GitLab**, so I am not able to publish all of those projects here
+
 
 ## Tech stack
 
@@ -50,10 +53,11 @@ Explored regularization, grid search, model metrics, ensemble methods, and ML pi
 Practiced command-line tools for collecting, transforming, sorting, and preprocessing data.  
 **Tech:** UNIX/Linux, shell scripting, jq, curl.
 
-## Currently learning
+## Currently Learning
 
-- better project structure and clean code
-- deployment and production-ready backend practices
-- stronger machine learning project packaging
-- practical AI systems using local models and APIs
+- Better project structure and clean code practices
+- Deployment and production-ready backend development
+- Stronger machine learning project organization
+- Practical AI systems using local models and APIs
+- Building a marketplace project that includes AI agent-based assistant features for smarter user support and task automation
 
