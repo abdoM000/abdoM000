@@ -19,6 +19,7 @@ I work on academic and personal projects involving:
 - **API-based integrations**
 - **Multi-model workflows**
 - **Basic AI agent systems**
+- **Microservices**
 
 Some of my School 21 work was completed and submitted through **GitLab**, so I am not able to publish all of those projects here.
 
