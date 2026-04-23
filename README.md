@@ -1,10 +1,13 @@
 # Hi, I'm Abdelrahman
-# Rebuilding my GitHub portfolio after losing access to my old account, which I originally created back when I was in Egypt /3
 
-## About me
+Rebuilding my GitHub portfolio after losing access to an older account I created back when I was in Egypt, so I'm gradually publishing my work here again.
 
-#Studying **Software Engineering** at **Kazan Federal University**
-#Learning through hands-on projects at **School 21**, with a strong focus on **data science**
+## About Me
+
+- Studying **Software Engineering** at **Kazan Federal University**
+- Learning through hands-on projects at **School 21**, with a strong focus on **data science**
+- Motivated to go deeper into **machine learning**
+
 I work on academic and personal projects involving:
 - **Python**
 - **SQL**
@@ -16,12 +19,10 @@ I work on academic and personal projects involving:
 - **API-based integrations**
 - **Multi-model workflows**
 - **Basic AI agent systems**
-- Motivated to go deeper into **machine learning**
 
-# Some of my School 21 work was completed and submitted through **GitLab**, so I am not able to publish all of those projects here
+Some of my School 21 work was completed and submitted through **GitLab**, so I am not able to publish all of those projects here.
 
-
-## Tech stack
+## Tech Stack
 
 **Languages & Tools**  
 Python, SQL, Pandas, NumPy, SQLite, Git, Jupyter Notebook, scikit-learn, Django, UNIX/Linux
@@ -29,7 +30,7 @@ Python, SQL, Pandas, NumPy, SQLite, Git, Jupyter Notebook, scikit-learn, Django,
 **Topics I’ve worked on**  
 Data analysis, visualization, classification, regression, clustering, decision trees, model evaluation, regularization, grid search, ensemble methods, pipelines
 
-## Featured projects
+## Featured Projects
 
 ### 1. Uni Materials Platform
 A Django-based web application for uploading and managing university study materials.  
@@ -59,5 +60,4 @@ Practiced command-line tools for collecting, transforming, sorting, and preproce
 - Deployment and production-ready backend development
 - Stronger machine learning project organization
 - Practical AI systems using local models and APIs
-- Building a marketplace project that includes AI agent-based assistant features for smarter user support and task automation
-
+- Building a marketplace project with an AI agent-based assistant for smarter user support and task automation
