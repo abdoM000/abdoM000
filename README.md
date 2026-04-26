@@ -2,61 +2,32 @@
 
 ## About Me
 
-- Studying **Software Engineering** at **Kazan Federal University**
-- Learning through hands-on projects at **School 21**, with a strong focus on **data science**
-- Motivated to go deeper into **machine learning**
+I'm a Software Engineering student at Kazan Federal University and a hands-on learner at School 21, with a growing focus on data science and machine learning
+Enjoy building practical projects that combine backend development, data analysis, and AI-powered systems. My current goal is to deepen my understanding of machine learning through real projects, clean code, and well-structured workflows
 
-I work on academic and personal projects involving:
-- **Python**
-- **SQL**
-- **Pandas**
-- **Data preprocessing and analysis**
-- **Machine learning**
-- **Backend development**
-- **Local AI models**
-- **API-based integrations**
-- **Multi-model workflows**
-- **Basic AI agent systems**
-- **Microservices**
+## What I Work With
 
-Some of my School 21 work was completed and submitted through **GitLab**, so I am not able to publish all of those projects here.
+- Python and SQL
+- Data preprocessing and analysis
+- Pandas, NumPy, and scikit-learn
+- Machine learning fundamentals
+- Backend development with Flask and Django
+- SQLite and database design basics
+- Git, UNIX/Linux, and Jupyter Notebook
+- Local AI models and API-based integrations
+- Basic AI agents, multi-model workflows, and microservices
+
+## Current Focus
+
+- Improving project structure and clean code practices
+- Building stronger machine learning project workflows
+- Developing a marketplace project with an AI agent-based assistant for smarter user support and task automation
+- Gaining practical experience that connects software engineering, data science, and AI systems
 
 ## Tech Stack
 
-**Languages & Tools**  
-Python, SQL, Pandas, NumPy, SQLite, Git, Jupyter Notebook, scikit-learn, Django, UNIX/Linux
-
-**Topics I’ve worked on**  
-Data analysis, visualization, classification, regression, clustering, decision trees, model evaluation, regularization, grid search, ensemble methods, pipelines
-
-## Featured Projects
-
-### 1. Uni Materials Platform
-A Django-based web application for uploading and managing university study materials.  
-**Features:** authentication, material upload, search, comments, ratings, SQLite database.  
-**Tech:** Django, Python, SQLite, HTML/CSS.
-
-### 2. Machine Learning Fundamentals
-A set of projects focused on core ML concepts and practical modeling.  
-**Topics:** classification, decision trees, logistic regression, SVM, random forest, regression, clustering, overfitting, cross-validation.  
-**Tech:** Python, scikit-learn, Jupyter Notebook.
-
-### 3. SQL and Pandas Analytics
-Worked with SQL queries, joins, aggregations, datamarts, and analytical workflows using Pandas.  
-**Tech:** SQL, Pandas, SQLite, Python.
-
-### 4. Advanced Machine Learning Experiments
-Explored regularization, grid search, model metrics, ensemble methods, and ML pipelines.  
-**Tech:** Python, scikit-learn, Jupyter Notebook.
-
-### 5. UNIX and Data Processing
-Practiced command-line tools for collecting, transforming, sorting, and preprocessing data.  
-**Tech:** UNIX/Linux, shell scripting, jq, curl.
-
-## Currently Learning
-
-- Better project structure and clean code practices
-- Deployment and production-ready backend development
-- Stronger machine learning project organization
-- Practical AI systems using local models and APIs
-- Building a marketplace project with an AI agent-based assistant for smarter user support and task automation
+**Languages:** Python, C, C#, SQL  
+**Frameworks:** Flask, Django  
+**Data & ML:** Pandas, NumPy, scikit-learn, Jupyter Notebook  
+**Tools:** Git, UNIX/Linux, SQLite  
+**Other:** Unity, local AI models, APIs, microservices
