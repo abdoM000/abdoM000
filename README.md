@@ -2,8 +2,8 @@
 
 ## About Me
 
-I'm a Software Engineering student at Kazan Federal University and a hands-on learner at School 21, with a growing focus on data science and machine learning
-Enjoy building practical projects that combine backend development, data analysis, and AI-powered systems. My current goal is to deepen my understanding of machine learning through real projects, clean code, and well-structured workflows
+I'm a Software Engineering student at Kazan Federal University and a hands-on learner at School 21, with a growing focus on data science and machine learning,
+Enjoy building practical projects that combine backend development, data analysis, and AI-powered systems, My current goal is to deepen my understanding of machine learning through real projects, clean code, and well-structured workflows
 
 ## Work With
 
