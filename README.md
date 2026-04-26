@@ -5,12 +5,12 @@
 I'm a Software Engineering student at Kazan Federal University and a hands-on learner at School 21, with a growing focus on data science and machine learning
 Enjoy building practical projects that combine backend development, data analysis, and AI-powered systems. My current goal is to deepen my understanding of machine learning through real projects, clean code, and well-structured workflows
 
-## What I Work With
+## Work With
 
 - Python and SQL
 - Data preprocessing and analysis
 - Pandas, NumPy, and scikit-learn
-- Machine learning fundamentals
+- Machine learning
 - Backend development with Flask and Django
 - SQLite and database design basics
 - Git, UNIX/Linux, and Jupyter Notebook
