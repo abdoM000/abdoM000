@@ -1,6 +1,4 @@
-# Hi, I'm Abdelrahman
-
-Rebuilding my GitHub portfolio after losing access to an older account I created back when I was in Egypt, so I'm gradually publishing my work here again.
+# Nice to see u! I'm Abdelrahman
 
 ## About Me
 
